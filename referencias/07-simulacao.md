@@ -24,12 +24,13 @@ Quando o pedido é "quem ganha", "testa essa ficha", "x1", "roda o nível X": **
 | Pistoleiro Técnico × Vale | 10 | Pistoleiro 99%; com Aura Anuladora no Vale, 78-83% |
 | Pistoleiro Técnico × Vale | 20 | Pistoleiro 68%; **com Aura Anuladora, Vale 100%** |
 | Técnico × Combatente (pistoleiros) | 5 / 10 / 20 | Combate 62% / Técnica 62% / Técnica 76-78% |
+| Técnico nv20 com dano duplo (~370 por turno) × Vale nv20 com Aura Anuladora + Anular Técnica | 20 | Técnico 69% |
 | Monarca nv10 solo × 15 inimigos (Catedral dos Ossos) | 10 | derrota na rodada 6 (PE acabou na 4, ataques de oportunidade custaram ~41 PV) |
 | Hélio nv10 × Monarca nv10 (jogado no chat) | 10 | Monarca venceu na rodada 2 (Hélio chegou a 6 m e foi cercado) |
 
 ## Lições que se repetem
 
 - **Quem age primeiro e trava ganha.** Especialista em Técnica com Feitiço Rápido (trava na bônus, dano na comum) domina x1 do nível 8 em diante.
-- **O Controlador é o ponto fraco do próprio exército.** Aura Anuladora vira o jogo no nível 20.
+- **O Controlador é o ponto fraco do próprio exército.** Aura Anuladora protege da trava, mas não do dano duplo (dois feitiços de nível 5 no turno via Feitiço Rápido).
 - **Um turno de exército no nível 20 (~550-575) mata qualquer peça de vidro.**
 - Nível 5 é a janela do Esp. em Combate; nível 7 é o salto do Técnico (Paralisado).

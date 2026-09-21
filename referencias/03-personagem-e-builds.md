@@ -50,6 +50,13 @@ Especialização pode trocar habilidade por talento em qualquer nível.
 - Combo: Ponto Cego + Cruel + Sobrecarregar + Duplicado = dois alvos cegos, CD 28, 12 PE.
 - Pulo: nv7 Paralisado; nv8 Feitiço Rápido (Expansão dos Fundamentos) = trava na bônus + dano na comum.
 
+## Build: O Apagador no nível 20
+
+- PV ~205, PE 126, CD 42 (teto). Fundamentos: Cruel, Preciso, Duplicado, Rápido, Distante. Foco Destruição, Destruição Focada, O Honrado.
+- Aura Anuladora (anti-trava), Cobertura Avançada (64). Domínio com Acerto Garantido em "feitiços de nível 5"; Sem Barreiras no 20 via Elevar Aptidão.
+- Modos: trava + dano (~200 e o alvo perde o turno) · dano duplo (~370) · dentro do domínio (TR sempre falha, +5 dados +15).
+- Resultados: 69% contra o melhor Vale nv20, 76-78% contra o Pistoleiro Combatente nv20.
+
 ## Build: Pistoleiro Técnico ("Olhos da Morte")
 
 - Inato + Esp. em Técnica, INT. **Técnicas de Combate** (nv2): pistola usa INT.
