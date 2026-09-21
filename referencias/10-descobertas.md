@@ -15,6 +15,9 @@
 | Domínio e invocações | O livro é omisso se buffs da expansão valem para invocações (leitura segura: não valem). |
 | **Página-imagem** | A origem Feiticeiro Reencarnado (PDF p.42) é uma imagem: extração de texto não lê. Sempre checar páginas com pouco texto renderizando como imagem. |
 | Paginação do PDF | Marcador ≠ fólio: no miolo, fólio = marcador − 1; no começo varia. |
+| Invocar (p.302 × p.91) | A lista de ações põe Invocar como Ação Comum; o Controle Concentrado fala em "invocar... como uma ação bônus". |
+| Shikigami de feitiço (p.230) | Não diz se conta no Limite de Comando, nem que bônus de acerto usa quem não é Controlador, nem quantos podem ficar em campo. |
+| Fantoche Supremo (p.99) | Só pode ser invocado 1× por descanso longo: se cair, não volta no dia. |
 | Machadinha | Não existe arma de arremesso com esse nome; usar Faca de Arremesso reskin. |
 
 ## Achados de balanceamento (Projeto Equilíbrio, sobre a v3.0)

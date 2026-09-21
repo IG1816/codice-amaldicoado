@@ -25,11 +25,17 @@ Quando o pedido é "quem ganha", "testa essa ficha", "x1", "roda o nível X": **
 | Pistoleiro Técnico × Vale | 20 | Pistoleiro 68%; **com Aura Anuladora, Vale 100%** |
 | Técnico × Combatente (pistoleiros) | 5 / 10 / 20 | Combate 62% / Técnica 62% / Técnica 76-78% |
 | Técnico nv20 com dano duplo (~370 por turno) × Vale nv20 com Aura Anuladora + Anular Técnica | 20 | Técnico 69% |
+| **Torneio nv20 v2** (melhores de cada caminho) | 20 | **Controlador Feto Híbrido 86,9%** · Técnico Feto 81,1% · Técnico Derivado 64% · Restringido 44% · Combatente 13% · Lutador 11%. Pior caso pro Controlador: empate com o Técnico Feto (~83%) |
+| Controlador (Vale) por origem | 20 | Feto 86,8% · Derivado 75,5% · Inato 70,9% · Reencarnado 70,7% · Gojo ~50% |
+| Controlador por origem × Apagador | 4 | Reencarnado 17% · Derivado 14% · Inato 10% |
 | Monarca nv10 solo × 15 inimigos (Catedral dos Ossos) | 10 | derrota na rodada 6 (PE acabou na 4, ataques de oportunidade custaram ~41 PV) |
 | Hélio nv10 × Monarca nv10 (jogado no chat) | 10 | Monarca venceu na rodada 2 (Hélio chegou a 6 m e foi cercado) |
 
 ## Lições que se repetem
 
+- **Iniciativa decide o x1 do nível 20.** Sempre testar as fichas com a iniciativa máxima possível (Feto Híbrido + Reação Rápida) dos dois lados, senão o resultado mente.
+- **Controlador: concentrar todos os comandos numa sombra só** (o Fantoche, com Precisão, Agressividade e o feitiço sustentado). Uma mesma invocação pode fazer várias ações complexas (p.90).
+- Modelar a reação com cuidado: guardar PE para a Aura Anuladora, mas usar Cobertura se o golpe for letal.
 - **Quem age primeiro e trava ganha.** Especialista em Técnica com Feitiço Rápido (trava na bônus, dano na comum) domina x1 do nível 8 em diante.
 - **O Controlador é o ponto fraco do próprio exército.** Aura Anuladora protege da trava, mas não do dano duplo (dois feitiços de nível 5 no turno via Feitiço Rápido).
 - **Um turno de exército no nível 20 (~550-575) mata qualquer peça de vidro.**

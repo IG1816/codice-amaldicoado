@@ -15,7 +15,7 @@
 
 **Feiticeiro Reencarnado existe**, mas está como **imagem** na página 42 do PDF (sem texto extraível). Comparação visual com a v3.0 confirmou que é a única mudança escondida em imagem (além da capa).
 
-Ranking de origem para conjurador no nível 20: **Derivado** (INT até 27, +12 PE 1-3×/dia) > Inato ≈ Reencarnado. Em nível baixo, o Reencarnado sobe (aptidão extra no 1 e habilidade emprestada).
+Ranking de origem no nível 20: **Feto Híbrido** vence para qualquer um que decida a luta no primeiro turno (Instinto Sanguinário = +BT na Iniciativa; Carapaça; +PV). Derivado (atributo até 25, +12 PE 1-3×/dia) vem depois; Inato ≈ Reencarnado. Em nível baixo, o Reencarnado sobe (aptidão extra no 1 e habilidade emprestada).
 
 ## Talentos úteis no nível 4 (p.163-170)
 
@@ -60,20 +60,30 @@ Especialização pode trocar habilidade por talento em qualquer nível.
 - Modos: trava + dano (~200 e o alvo perde o turno) · dano duplo (~370) · dentro do domínio (TR sempre falha, +5 dados +15).
 - Resultados: 69% contra o melhor Vale nv20, 76-78% contra o Pistoleiro Combatente nv20.
 
-## O mais forte do jogo no nível 20 (torneio, 10.000 lutas por dupla)
+## O mais forte do jogo no nível 20 (reteste v2, 6.000-8.000 lutas por dupla)
 
-| # | Ficha | Média de vitórias |
-|---|---|---|
-| 1 | **Derivado + Esp. em Técnica (INT 27)** | 83-85% |
-| 2 | Inato + Esp. em Técnica | 78-80% |
-| 3 | Restringido (resiste a todo dano físico, 289 PV) | 61-65% |
-| 4 | Controlador | 46% |
-| 5 | Esp. em Combate | 17% |
-| 6 | Lutador | 11% |
+| # | Ficha | Regras da ficha | Pior caso pro Controlador |
+|---|---|---|---|
+| 1 | **Controlador Feto Híbrido (o Vale)** | **86,9%** | 82,9% |
+| 2 | Esp. em Técnica Feto Híbrido (iniciativa +16) | 81,1% | 83,2% |
+| 3 | Esp. em Técnica Derivado (INT 27, o antigo "Supremo") | 64,0% | 64,5% |
+| 4 | Restringido | 44% | 46% |
+| 5 | Esp. em Combate | 13% | 12% |
+| 6 | Lutador | 11% | 10% |
 
-- O Supremo: INT 27, PE ~164 por luta, CD 44, fundamentos Cruel/Preciso/Duplicado/Rápido/Distante, Aura Anuladora, Cobertura Avançada, Técnica Máxima (~253, recarga 3), domínio com AG e Sem Barreiras, Primeiro Disparo.
-- Restringido: rei do corpo a corpo (100% contra Lutador e Combatente, 79% contra Controlador), mas sem aptidões perde pro Técnico pela Vontade.
-- Controlador: melhor peça de mesa, não de x1 (exército é físico).
+- **No x1 do nível 20 quem age primeiro mata.** Iniciativa vale mais que qualquer outro número. Por isso **Feto Híbrido** (Instinto Sanguinário: +BT na Iniciativa, p.35) + talento **Técnicas de Reação Rápida** (+5, rerrola, p.165; o Controlador troca uma habilidade por talento, p.92) vence.
+- Pior caso = sem +35 da Cessão na sombra, Mestre do Controle contando no limite, Primeiro Disparo do Técnico usado como feitiço de dano. Controlador e Técnico Feto empatam.
+- Controlador direto contra Técnico Feto: 50-55%. Dano contra chefe: Controlador ~745/rodada, melhor Técnico ~350.
+- Técnico com sombras de feitiço (p.230), Combatente/Lutador com sombra e multiclasse Controlador/Técnico: todos piores (0-31%).
+- Erros corrigidos no reteste: atributos pelo método de valores fixos (15/14/13/12/10/8, p.22); crítico rola **todos** os dados duas vezes (p.307); Crítico Aprimorado exige Crítico Brutal; Autonomia só a partir do nível 12.
+
+### O Vale nível 20 (Controlador Feto Híbrido)
+
+- DES 20, CON 20, SAB 15 (SAB só mexe em PE e CD no Controlador). PV 225, PE 102, Def 19, **Iniciativa +16 com rerrolagem**, RD física 18 + resistência a corte.
+- Anatomias: Instinto Sanguinário (1), Carapaça Mutante (5), Desenvolvimento Exagerado (10), Anatomia Incompreensível (15), Olhos Sombrios (20).
+- Controle Disperso. Habilidades: Frenesi, Precisão, Agressividade, Potencial Superior, Táticas, Invocações Resistentes, Técnicas de Oportunidade, Reação Rápida (talento), Flanco Avançado, Aptidões de Controle ×3, Autonomia, Invocações Econômicas, Crítico Brutal, Mestre do Controle, Fantoche Supremo, Crítico Aprimorado, Guarda Viva.
+- Rodada: Ápice traz 4 sombras de Grau Especial (ação livre); Cessão +35 no Bellion (Fantoche); 4 comandos + Autonomia + Fantoche + Mestre = **7 golpes de ~105 a +41**. Abertura 70 PE.
+- Origens do Controlador (média no campo): Feto 86,8% · Derivado 75,5% · Inato 70,9% · Reencarnado 70,7%. No nível 4 a diferença é pequena (Reencarnado leva vantagem ali pela habilidade emprestada).
 
 ## Build: Pistoleiro Técnico ("Olhos da Morte")
 

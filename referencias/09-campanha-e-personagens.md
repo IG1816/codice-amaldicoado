@@ -6,14 +6,17 @@ Mesa cooperativa de **6 jogadores**. Season 1: o jogador usou o Limbo (Herdado G
 
 **Lore resumida.** A mãe, Helena, escolheu dois nomes para gêmeos: Vale e Vesper. No sexto mês o exame mostrou um só; ela riscou "Vesper" no papel e guardou na carteira. Vale nasceu grande, com seis quilos. É medroso, foge de briga, entrega o lanche. Convive com Vesper, que nunca teve corpo e só fala quando quer; Vale quase nunca consegue chamar. Vesper entra quando Vale fica puto ou cede o corpo. A primeira vez que Vesper falou foi quando a mãe mostrou o nome riscado. **As sombras obedecem Vesper, não Vale.** Do pai, uma memória: "Helena, ele não é uma criança", porta batendo; Vale não usa sobrenome e não sabe qual é. Trabalhou como repositor de atacadão até os 16; chegou em casa, vazia, bilhete: "fique forte o suficiente para encontrar ela". Vesper tomou o corpo sem pedir pela primeira vez e explodiu a casa. Hoje tem 19 anos, vive de bico e caça gente forte para o exército. Ganchos: nome do pai; a frase ambígua; Vesper sabe coisa demais.
 
-**Ficha nível 4** (Inato · Controlador · SAB): FOR 8 DES 13 CON 16 INT 10 SAB 20 PRE 12 · PV 37 · PE 25 · Defesa 13 (Aura Maciça) · CD 19 · RD 4.
-- Habilidades: Invocações Resistentes, Melhoria Precisão (só 1 sombra), Controle Aprimorado, Autonomia.
-- Aptidões: Aura 2, CL 1 · Aura Reforçada, Aura Maciça, Aura do Bastião, Cobrir-se. **Feitiçaria treinada** (necessária pro Acerto Garantido).
-- Feitiços: Cessão (MR, Dano Fixo sustentado +8) · Correntes do Vesper (Agarrado 2 rodadas, CD 19) · Lança de Sombra (4d8) · Ordem (+12/+24) · Marca do Monarca (nv0, ver pela sombra).
-- Sombras (4º grau): **Igris** (cavaleiro, +11, 1d12+1d8+3, Pisar = Caído) · **Kaisel** (serpe, voo, Ferrão 6 m / Bote 18 m) · **Jima** (rastreador).
-- Rodada: abertura 9 PE (Igris + Kaisel autônomos), depois ~51 de dano por 3 PE.
+**Ficha nível 4 ATUAL (v2): Feto Amaldiçoado Híbrido · Controlador · SAB** (PDF `Vale_nivel4_FetoHibrido.pdf`). O Vesper é a "metade maldição".
+- FOR 8 DES 16 CON 16 INT 12 SAB 15 PRE 10 · PV 37 · PE 22 · Defesa 14 · Iniciativa +5 · CD 16 · RD 2.
+- Anatomia: Instinto Sanguinário. Vigor Maldito (13 PV, 2 usos).
+- Habilidades: **Frenesi** (nv2), Precisão (nv3), Agressividade (nv4), Controle Aprimorado. **Sem Autonomia** (texto diz requisito nível 12; entra no 12).
+- Aptidões: Aura 1, CL 1 · Aura Reforçada, Aura Anuladora, Cobrir-se, Aura Maciça.
+- Feitiços: Cessão (+8 sustentado, 2 PE) · Correntes do Vesper (Agarrado, CD 16) · Lança de Sombra (4d8, +6) · Marca do Monarca.
+- Sombras 4º grau, 21 PV: Igris (+13, 1d12+1d8+1d6+6), Kaisel (voo, +9), Jima.
+- Rodada: abertura 6 PE (Invocar é Ação Comum, p.302); depois Igris ataca com Frenesi = 2 golpes, ~51/rodada por 1 PE.
+- Ficha antiga (Inato, SAB 20, Autonomia no 4) está em `Vale_nivel4.pdf`, substituída.
 
-**Trilha até o 20**: nv5 Potencial Superior · nv6 Controle Disperso + Táticas + **Aura Anuladora** (recomendado) · nv7 Agressividade · nv8 Técnicas de Oportunidade + Expansão Incompleta · nv9 Aptidão Desenvolvida (BAR) · nv10 Flanco Avançado + Expansão Completa · nv11 Aptidão Desenvolvida (DOM) · nv12 Aptidões de Controle (BAR) · nv13 Frenesi · nv14 Resistência + Acerto Garantido · nv15 Resistência Sobrecarregada · nv16 Mestre do Controle · nv17 Fantoche Supremo · nv20 Ápice + Sem Barreiras.
+**Trilha até o 20 (v2)**: 5 Potencial Superior + Carapaça · 6 Disperso + Táticas · 7 Invocações Resistentes · 8 Técnicas de Oportunidade + Expansão Incompleta · 9 talento Reação Rápida · 10 Flanco + Desenv. Exagerado · 11 Aptidões de Controle (BAR) · 12 Autonomia + Expansão Completa + Anular Técnica · 13 Econômicas (Beru) · 14 Crítico Brutal + Cobertura Avançada · 15 Aptidões de Controle (Aura) + Anatomia Incompreensível · 16 Mestre do Controle · 17 Fantoche (Bellion) · 18 Crítico Aprimorado · 19 Aptidões de Controle (BAR) + Acerto Garantido · 20 Ápice + Guarda Viva + Olhos Sombrios. Aptidões: Aura 4, CL 3, BAR 4, DOM 4 (12 níveis + 3 das Aptidões de Controle). Atributos: +1 DES +1 CON a cada 4 níveis.
 - Exército por grau: Igris (sobe até Especial) · Kaisel · Jima · Tusk (3º, área) · Iron (3º, Fantoche) · Tank (2º) · Greed (2º) · **Beru** (1º) · **Bellion** (Especial).
 - Domínio: Reino das Sombras (ver 05).
 
