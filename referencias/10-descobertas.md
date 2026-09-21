@@ -13,6 +13,7 @@
 | Montaria / voo de invocação | Nenhuma regra; deslocamento pode mudar de tipo por característica, sem valor. |
 | RD de invocação (p.269 × p.272) | Grau Especial: 10 numa tabela, 12 na outra. |
 | Domínio e invocações | O livro é omisso se buffs da expansão valem para invocações (leitura segura: não valem). |
+| **Página-imagem** | A origem Feiticeiro Reencarnado (PDF p.42) é uma imagem: extração de texto não lê. Sempre checar páginas com pouco texto renderizando como imagem. |
 | Paginação do PDF | Marcador ≠ fólio: no miolo, fólio = marcador − 1; no começo varia. |
 | Machadinha | Não existe arma de arremesso com esse nome; usar Faca de Arremesso reskin. |
 

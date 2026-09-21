@@ -11,8 +11,11 @@
 | Feto Híbrido | 34 | características de Anatomia (voo, braços extras…) |
 | Sem Técnica | 37 | sem feitiços; Novo Estilo da Sombra e Domínio Simples no nv4 |
 | Mutante | 39 | 3 núcleos; fraco em atributos |
+| **Feiticeiro Reencarnado** | PDF p.42 (página-imagem) | +2/+1 atributo · treinado em 2 perícias **ou** mestre em uma que já tem · **aptidão extra no nível 1** · Experiência do Reencarnado: 1× por descanso curto, ação bônus, ganha uma habilidade de especialização à escolha (respeitando requisitos) até usar ou até o fim do dia |
 
-**Não existe origem "reencarnado"** na Definitiva (verificado no texto inteiro).
+**Feiticeiro Reencarnado existe**, mas está como **imagem** na página 42 do PDF (sem texto extraível). Comparação visual com a v3.0 confirmou que é a única mudança escondida em imagem (além da capa).
+
+Ranking de origem para conjurador no nível 20: **Derivado** (INT até 27, +12 PE 1-3×/dia) > Inato ≈ Reencarnado. Em nível baixo, o Reencarnado sobe (aptidão extra no 1 e habilidade emprestada).
 
 ## Talentos úteis no nível 4 (p.163-170)
 
@@ -56,6 +59,21 @@ Especialização pode trocar habilidade por talento em qualquer nível.
 - Aura Anuladora (anti-trava), Cobertura Avançada (64). Domínio com Acerto Garantido em "feitiços de nível 5"; Sem Barreiras no 20 via Elevar Aptidão.
 - Modos: trava + dano (~200 e o alvo perde o turno) · dano duplo (~370) · dentro do domínio (TR sempre falha, +5 dados +15).
 - Resultados: 69% contra o melhor Vale nv20, 76-78% contra o Pistoleiro Combatente nv20.
+
+## O mais forte do jogo no nível 20 (torneio, 10.000 lutas por dupla)
+
+| # | Ficha | Média de vitórias |
+|---|---|---|
+| 1 | **Derivado + Esp. em Técnica (INT 27)** | 83-85% |
+| 2 | Inato + Esp. em Técnica | 78-80% |
+| 3 | Restringido (resiste a todo dano físico, 289 PV) | 61-65% |
+| 4 | Controlador | 46% |
+| 5 | Esp. em Combate | 17% |
+| 6 | Lutador | 11% |
+
+- O Supremo: INT 27, PE ~164 por luta, CD 44, fundamentos Cruel/Preciso/Duplicado/Rápido/Distante, Aura Anuladora, Cobertura Avançada, Técnica Máxima (~253, recarga 3), domínio com AG e Sem Barreiras, Primeiro Disparo.
+- Restringido: rei do corpo a corpo (100% contra Lutador e Combatente, 79% contra Controlador), mas sem aptidões perde pro Técnico pela Vontade.
+- Controlador: melhor peça de mesa, não de x1 (exército é físico).
 
 ## Build: Pistoleiro Técnico ("Olhos da Morte")
 

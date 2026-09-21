@@ -23,6 +23,8 @@ A skill-base do projeto **D&D Pensamentos**: tudo o que foi estudado, decidido e
 3. `livros/Feiticeiros e Maldições - Enciclopédia Amaldiçoada v0.6.pdf` — técnicas prontas.
 4. `livros/F&M 2.5 - Grimório das Maldições` e o site https://grimorio-fm.vercel.app/ — inimigos.
 
+**Atenção: a origem Feiticeiro Reencarnado (PDF p.42) é uma página-imagem; texto extraído não mostra. Páginas com pouco texto precisam ser renderizadas e lidas como imagem.**
+
 Para ler: extrair com PyMuPDF (`import pymupdf`) para texto com marcadores `--- PAGE N ---`. **No miolo, página impressa = marcador − 1** (no começo do livro o deslocamento varia; confira o fólio impresso).
 
 ## Roteador — qual referência abrir
